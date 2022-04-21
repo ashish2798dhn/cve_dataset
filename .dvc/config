@@ -3,4 +3,4 @@
 ['remote "storage"']
     url = ../cdrive
 ['remote "myremote"']
-    url = /tmp/dvcstore
+    url = /.dvc/tmp/cve_data
