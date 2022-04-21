@@ -1,4 +1,6 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = ../cdrive
+['remote "myremote"']
+    url = /tmp/dvcstore
