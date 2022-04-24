@@ -1,0 +1,9 @@
+{	"SampleFileName": "cve_dataset.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 2,
+	"ColName": {
+		"summary" : "varchar",
+		"cvss": " float",
+	}
+}
